@@ -7,7 +7,12 @@ import App from './App/App';
 import Search from './Search/Search';
 import HeaderContent from './HeaderContent/HeaderContent';
 
-import './index.css';
+// import './index.css';
+import './index.scss';
+import 'office-ui-fabric-react/dist/css/fabric.min.css';
+
+
+
 
 import { initializeIcons } from '@uifabric/icons';
 initializeIcons();

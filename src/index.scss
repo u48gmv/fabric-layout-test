@@ -1,0 +1,26 @@
+@import "./StyleVars/StyleVars.scss";
+
+body {
+  margin: 0;
+  padding: 0;  
+}
+
+
+.app-header-area{  
+  background-color: $color01;
+}
+.app-main-area{
+  background-color: $color02;
+}
+.app-left-hand{
+  background-color:$color03;
+}
+.app-middle{
+  background-color:$color04;
+}
+.app-right{
+  background-color:$color05;
+}
+.app-footer-area{
+  background-color:$color06;
+}
